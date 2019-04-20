@@ -1,0 +1,16 @@
+vegetal conseguir(vegetal) {
+	plantarSemilla();
+	cuidarSiembre();
+	cosechar();
+	return tomate;
+}
+
+bebe adortar(sexo) {
+	hacerTramite();
+	revisionDocumentos();
+	veridicto = atenderVeredicto();
+	if(veredicto es exitoso) {
+		bebe = elegirBebe();  
+	} 
+	return bebe;
+} 

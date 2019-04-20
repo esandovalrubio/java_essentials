@@ -1,0 +1,45 @@
+Hacer 5 sandwiches de Jamón y cinco de Bolonia
+
+//Opcion 1
+
+numero_sandwiches en cero
+while(numero_sandwiches es menor que 5) {
+	hacerSandwichJamon();
+	suma uno a numero_sandwiches
+}
+
+numero_sandwiches en cero
+while(numero_sandwiches es menor que 10) {
+	hacerSandwichBolonia();
+	suma uno a numero_sandwiches
+}
+
+
+//Opcion 2
+
+numero_sandwiches en cero
+while(numero_sandwiches es menor que 5) {
+	hacerSandwichJamon();
+	suma uno a numero_sandwiches
+}
+
+while(numero_sandwiches es menor que 15) {
+	hacerSandwichBolonia();
+	suma uno a numero_sandwiches
+}
+
+
+
+//Opcion 3
+
+numero_sandwiches en cero
+while(numero_sandwiches es menor que 10) {
+	hacerSandwichJamon();
+	hacerSandwichBolonia();
+	suma uno a numero_sandwiches
+}
+
+while(numero_sandwiches es menor que 5) {
+	hacerSandwichBolonia();
+	suma uno a numero_sandwiches
+}

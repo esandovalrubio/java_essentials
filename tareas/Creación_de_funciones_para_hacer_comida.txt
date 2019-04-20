@@ -1,0 +1,19 @@
+//Creación de funciones para hacer comida
+
+Iniciar numero_tacos en cero
+while(numero_tacos es menor que 30) {
+	hacerTacoPastor();
+	hacerTacosChicharron();
+	hacerTacosMilanesa();
+	suma uno a numero_tacos
+}
+
+while(numero_tacos es menor que 40) {
+	hacerTacosChicharron();
+	hacerTacosMilanesa();
+	suma uno a numero_tacos
+
+while(numero_tacos es menor que 50) {
+	hacerTacosMilanesa();
+	suma uno a numero_tacos
+}

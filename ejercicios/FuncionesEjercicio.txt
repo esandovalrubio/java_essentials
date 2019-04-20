@@ -1,0 +1,50 @@
+hacerPan(){
+	plantarTigo();
+	cuidarSiembra();
+	cosecharTrigo(); 
+	hacerHarina();
+	añadirIngredientes();
+	hornearPan();
+}
+
+
+hacerJamon(){
+	criarCerdos();
+	sacrificarCerdos();
+	hacerJamin();
+}	
+
+hacerCrema(){
+	criarVaca();
+	ordeñarVaca();
+	hacerCrema();
+}
+
+conseguirLechuga{
+	plantarLechuga
+	cuidarSiembra
+	cosecharLechuga
+}
+
+conseguirTomates(){
+	plantarTomate();
+	cuidarSiembra();
+	cosecharTomate();
+}
+
+prepararSandwich(){ 		
+	cortarPan();
+	tomarDosrebanadas();
+	encontrarCuchillo();
+	aplicarCrema();
+	limpiarCuchillo();
+	lavarTomate();
+	lavarLechuga();
+	cortarTomate();
+	cortarLechuga();
+	ponerLechugaytomate();
+	ponerRebanadajamon();
+	ponerSegundatapa();
+	encontrarPlato();
+	ponerSanwichenplato();
+}
